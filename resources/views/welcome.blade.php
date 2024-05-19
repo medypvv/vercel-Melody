@@ -90,10 +90,10 @@ body, html {
 <div class="w3-content w3-container w3-padding-64" id="about">
   <h3 class="w3-center">ABOUT ME</h3>
   <p class="w3-center"><em>I love dancing</em></p>
-  <p>During my childhood years, I already love dancing, singing, writing, reading, playing outside games and such.</p>
+  <p>During my childhood years, I already love dancing, singing, writing, reading, playing outside games and such. I was also part of the success of my school when it comes to competitions like journalism, pageantry, and sports. I now have the passion on basketball and I want to be a part of some kind of an all girls basketball team.</p>
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
-      <p><b><i class="fa fa-user w3-margin-right"></i>My Name</b></p><br>
+      <p><b><i class="fa fa-user w3-margin-right"></i>Melody Viloria</b></p><br>
       <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t39.30808-6/441478526_2114160708963564_7126678116039461925_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE7RyImAOKlWm_ZX-zrUxwd-SZU-Gb671f5JlT4ZvrvV6ixG0NygXFdh0HrhVNuQkZWvF5thu0UJ248ITGCdqB6&_nc_ohc=LxDXl2nIFF0Q7kNvgEs2JBR&_nc_ht=scontent.fcrk4-1.fna&oh=00_AYDTatytwBC4pJ_n8OdukExCFKzkECm2qTnNTCLo80LLeg&oe=66501733" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
     </div>
 
